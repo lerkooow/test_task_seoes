@@ -1,8 +1,17 @@
-# React + Vite
+### Верстальщик (HTML/CSS/JS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Описание проекта:
 
-Currently, two official plugins are available:
+Это тестовое приложение "SEO" — это макет панели управления.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Ссылка на проект:
+
+https://test-task-seoes.vercel.app/
+
+## Установка и запуск приложения:
+
+1.Клонировать репозиторий на свое устройство git clone https://github.com/lerkooow/test_task_seoes
+
+2.Установить зависимости npm install
+
+3.Запустить приложение npm run dev
