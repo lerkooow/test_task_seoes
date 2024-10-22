@@ -5,7 +5,7 @@ import './App.css';
 
 function App() {
   const [hiddenMenu, setHiddenMenu] = useState(true);
-  const [openPosition, setOpenPosition] = useState(true);
+  const [openPosition, setOpenPosition] = useState(false);
   const [openPositionHidden, setOpenPositionHidden] = useState(true);
   const [openFolders, setOpenFolders] = useState({ folder1: false, folder2: false });
   const [project, setProject] = useState(1);

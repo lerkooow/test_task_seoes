@@ -44,7 +44,7 @@ const Sidebar = ({
                 <Paper sx={{ width: 320, position: 'absolute', top: '65px', left: '45px', maxWidth: "210px" }}>
                     <MenuList>
                         <MenuItem>
-                            <Typography variant="body2" >Ключевые слова</Typography>
+                            <Typography variant="body2">Ключевые слова</Typography>
                         </MenuItem>
                         <MenuItem>
                             <Typography variant="body2" sx={{ color: 'text.secondary' }}>URLs</Typography>
