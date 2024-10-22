@@ -1,0 +1,76 @@
+.aside {
+  max-width: 277px;
+  height: 100vh;
+  padding: 20px;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.aside .MuiTypography-root {
+  font-family: "PT Root UI", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  color: #747474;
+}
+
+.aside .MuiTypography-root:hover {
+  color: #000;
+}
+
+.aside.hidden {
+  max-width: 80px;
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.title.hidden {
+  display: block;
+  text-align: center;
+}
+
+.title h1 {
+  font-size: 30px;
+  font-weight: 700;
+  color: #333;
+  margin: 0;
+}
+
+.aside hr {
+  border: 0;
+  border-top: 1px solid #e0e0e0;
+}
+
+.aside .MuiListItemButton-root:hover {
+  background-color: #f7f7f7;
+}
+
+.aside .MuiListItemIcon-root {
+  min-width: 16px;
+  display: block;
+}
+
+.aside.hidden .MuiListItemText-root {
+  display: none;
+}
+
+.header {
+  padding: 20px;
+  flex-grow: 1;
+  display: flex;
+  height: 100%;
+  align-items: center;
+  background-color: #fff;
+  max-height: 72px;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.css-rizt0-MuiTypography-root {
+  font-size: 20px;
+}
